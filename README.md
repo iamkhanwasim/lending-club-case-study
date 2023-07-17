@@ -55,8 +55,12 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
 
  
-
-Data Understanding
+Results Expected
+Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis 
+Present the overall approach of the analysis in a presentation 
+Mention the problem statement and the analysis approach briefly 
+Explain the results of univariate, bivariate analysis etc. in business terms
+Include visualisations and summarise the most important results in the presentation
  
 
-Download the dataset from below. It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. 
